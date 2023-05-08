@@ -1,0 +1,19 @@
+{
+  "name": "searchapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmanDanidhariya/React_Search_Filter.git"
+  },
+  "author": "Aman Danidhariya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmanDanidhariya/React_Search_Filter/issues"
+  },
+  "homepage": "https://github.com/AmanDanidhariya/React_Search_Filter#readme"
+}
